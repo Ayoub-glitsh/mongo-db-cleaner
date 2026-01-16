@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=MongoDB+User+Databases+Cleaner" />
+</p>
+
 # MongoDB User Databases Cleaner
 
 A simple and safe script to automatically delete all **user databases** in MongoDB while **ignoring system databases** like `admin`, `config`, and `local`.
