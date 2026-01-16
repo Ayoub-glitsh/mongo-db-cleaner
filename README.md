@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=MongoDB+User+Databases+Cleaner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=MongoDB+User+Databases+Cleaner" />
 </p>
 
 <p align="center">
-  <img src="assets/image.png" alt="MongoDB Cleaner" width="600">
+  <img src="github0000000.png" alt="MongoDB Cleaner">
 </p>
 
 
